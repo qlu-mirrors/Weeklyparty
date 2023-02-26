@@ -16,4 +16,4 @@
 | 时间        | 主持   | 主题                          | 讲稿    |
 |-------------|--------|-------------------------------|---------|
 |2022-11-21   | 李京鸿 | OpenSource/开源简介           |         |
-|2023-02-26   | 梁一博 | Git/Github食用方法            |         |
+|2023-02-26   | 梁一博 | Git/Github食用方法            | [Slide](https://github.com/qlu-mirrors/Weeklyparty/raw/main/resources/Git-%E6%A2%81%E4%B8%80%E5%8D%9A.odp)        |
